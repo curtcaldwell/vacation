@@ -1,0 +1,16 @@
+.right{
+  float: right;
+}
+.left{
+  float: left;
+}
+p {
+  color: blue;
+}
+img {
+ width: 300px;
+}
+
+body{
+  background-color: rgba(0, 0, 0, 0.1);
+}
