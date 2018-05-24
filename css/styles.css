@@ -6,6 +6,10 @@
 }
 p {
   color: blue;
+  font-family: fantasy;
+  padding: 10px;
+
+
 }
 img {
  width: 300px;
@@ -13,4 +17,19 @@ img {
 
 body{
   background-color: rgba(0, 0, 0, 0.1);
+}
+.jumbotron{
+  text-align: center;
+}
+h2{
+
+}
+.vac {
+text-align: center;
+border: solid;
+
+}
+
+footer{
+  margin-top: 0px;
 }
